@@ -1,0 +1,12 @@
+.container{
+	background-color: 'corol';
+	height: '400px';
+	weidth: '400px';
+	margin: 'auto';
+	padding: '200px'
+}
+form{
+	weidth: '400px';
+	height: '400px';
+	background-color: 'corol';
+}
